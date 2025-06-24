@@ -45,6 +45,11 @@ I'm a passionate Computer Science student and aspiring full-stack web developer 
 - 🎨 Forever curious about color theory, accessibility, and beautiful UIs
 
 ---
+### 🧰 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,java,python,git,github,vscode,linux,figma" />
+</p>
 
 ### 📊 GitHub Stats
 
