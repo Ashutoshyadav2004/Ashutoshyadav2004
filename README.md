@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ashutosh Yadav</h1>
 
 <p align="center">
-  💻 Full-Stack Web Developer • 🎯 FAANG Aspirant • 🇮🇳 Based in Howrah, West Bengal
+  💻 Full-Stack Web Developer 
 </p>
 
 ---
