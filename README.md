@@ -1,63 +1,26 @@
-<h1 align="center">Hi there 👋, I'm Ashutosh Yadav</h1>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Ashutosh+Yadav;Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB;Learning+Every+Day+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  💻 Full-Stack Web Developer 
+  <a href="https://portfoliofrontend-xi.vercel.app" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:ashutosh08yadav@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ashutosh-yadav-0b92922bb/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### ✨ About Me
 
-I'm a passionate Computer Science student and aspiring full-stack web developer who loves building meaningful, scalable products.
+I’m a **full-stack web developer** passionate about building clean, scalable apps that solve real-world problems.  
+Currently focused on React, Node.js, MongoDB — and sharpening my backend and DSA skills.
 
-- 🌱 Currently learning **React**, **Node.js**, **MongoDB**, and **SQL**
-- 🔧 Focused on solving **DSA problems (100+ target)** and building **deployable projects**
-- 🧠 Also diving into **Operating Systems**, **DBMS**, **Networking**, and **OOP**
-- ⚡ Fun fact: I’ve built a **voice-controlled portfolio** and a **news site with full admin control**
-
----
-
-### 🚀 Projects & Contributions
-
-- 🔐 **News Web App** – Admin can post/edit/delete; users can like, comment, and share
-- 🗣️ **Voice-Activated Portfolio** – Use speech to navigate across my portfolio
-- 📈 **DSA Tracker** – Monitor LeetCode progress and problem-solving streaks
-- 🎨 **CSS + JS Animations** – Custom loaders, glowing titles, and responsive designs
-
-> _“Design is not just what it looks like and feels like. Design is how it works.”_ — Steve Jobs
-
----
-
-### 📫 Connect with Me
-
-- 📧 Email: [ashutosh08yadav@gmail.com](mailto:ashutosh08yadav@gmail.com)  
-- 🌐 Portfolio: [portfoliofrontend-xi.vercel.app](https://portfoliofrontend-xi.vercel.app)  
-- 💼 LinkedIn: [Ashutosh Yadav](https://www.linkedin.com/in/ashutosh-yadav-0b92922bb/)  
-- 🧑‍💻 GitHub: [Ashutoshyadav2004](https://github.com/Ashutoshyadav2004)
-
----
-
-### 🧠 Interests
-
-- ⚙️ Building robust and scalable web applications
-- 📚 Reading about system design, cloud computing, and database optimization
-- ⌨️ Exploring low-level concepts in OS and networking
-- 🎨 Forever curious about color theory, accessibility, and beautiful UIs
-
----
-### 🧰 Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,java,python,git,github,vscode,linux,figma" />
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashutoshyadav2004&show_icons=true&theme=github_dark" alt="Ashutosh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutoshyadav2004&theme=github-dark" alt="GitHub Streak" width="48%" />
-</p>
-
----
-
-<p align="center">Thanks for stopping by 🙏 — Let's connect and build something amazing!</p>
+```diff
++ Code. Build. Break. Learn. Repeat.
